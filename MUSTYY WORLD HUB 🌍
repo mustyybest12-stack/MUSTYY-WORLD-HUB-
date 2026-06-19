@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MUSTYY WORLD HUB</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Arial,sans-serif;
+        }
+
+        body{
+            background:#0d1117;
+            color:white;
+        }
+
+        header{
+            text-align:center;
+            padding:60px 20px;
+            background:linear-gradient(135deg,#0066ff,#8a2be2);
+        }
+
+        h1{
+            font-size:3rem;
+        }
+
+        p{
+            margin-top:15px;
+        }
+
+        .btn{
+            display:inline-block;
+            margin-top:20px;
+            padding:12px 25px;
+            background:white;
+            color:#000;
+            text-decoration:none;
+            border-radius:30px;
+            font-weight:bold;
+        }
+
+        .section{
+            padding:50px 20px;
+            text-align:center;
+        }
+
+        .card{
+            background:#161b22;
+            padding:20px;
+            margin:15px;
+            border-radius:15px;
+        }
+
+        footer{
+            text-align:center;
+            padding:20px;
+            background:#161b22;
+        }
+
+        .social a{
+            color:white;
+            margin:10px;
+            text-decoration:none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🌍 MUSTYY WORLD HUB</h1>
+    <p>Connect • Create • Stream • Earn</p>
+    <a href="#features" class="btn">Explore</a>
+</header>
+
+<section id="features" class="section">
+    <h2>Platform Features</h2>
+
+    <div class="card">🎥 Video Uploads & Streaming</div>
+    <div class="card">🎵 Music & Audio Sharing</div>
+    <div class="card">🤖 AI Assistant</div>
+    <div class="card">💬 Messaging & Communities</div>
+    <div class="card">🎮 Games & Entertainment</div>
+    <div class="card">💰 Creator Earnings</div>
+</section>
+
+<section class="section">
+    <h2>Follow Mustyy Best</h2>
+
+    <div class="social">
+        <a href="https://www.youtube.com/@mustyy112">YouTube</a>
+        <a href="https://www.instagram.com/bestmustyy">Instagram</a>
+        <a href="https://www.facebook.com/profile.php?id=61574332687731">Facebook</a>
+        <a href="https://www.tiktok.com/@mustyybest1">TikTok</a>
+        <a href="https://x.com/sandraSmit16914">X</a>
+        <a href="https://www.threads.com/@bestmustyy">Threads</a>
+    </div>
+</section>
+
+<footer>
+    <p>Created by Mustyy Best & AI Assistant</p>
+</footer>
+
+</body>
+</html>
